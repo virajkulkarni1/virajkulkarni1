@@ -78,6 +78,6 @@ Improved mobile reliability (+50% auth stability) and +25% retention with UI/UX 
 
 **What I’m looking for:**
 
-Summer 2026 software internships where I can own features end-to-end, especially around AI systems, developer platforms, data infra, or reliable product engineering. I love small teams, clear ownership, and shipping.
+A place where I can own features end-to-end, especially around AI systems, developer platforms, data infra, or reliable product engineering. I love small teams, clear ownership, and shipping.
 
 
