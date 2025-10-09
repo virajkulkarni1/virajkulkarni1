@@ -21,6 +21,7 @@ Built AI + data pipelines and shipped production features (GraphQL/Prisma/Postgr
 Stack: Next.js 15, TypeScript, Apollo, Tailwind/shadcn, Python, AWS (S3/Lambda)
 
 **What I have done in the past**
+
 📱 Eclipse — Lead Mobile Dev Intern
 Firebase-backed Flutter app for student degree tracking. Boosted account reliability/security by 50%, real-time read speed by 35%, and supported 500+ active users.
 Stack: Flutter/Dart, Firebase Auth/Firestore/Functions, CI, A/B testing
@@ -53,6 +54,7 @@ VR prototypes (physics/interaction) and a Java mod adding new entity systems.
 
 
 **Tech I use a lot**
+
 Frontend:  React, Next.js, Tailwind, shadcn/ui
 Backend:   Node/Express, Python (FastAPI/Flask), GraphQL (Apollo/Prisma)
 Data:      Postgres, pgvector, Neo4j (Cypher), MongoDB
