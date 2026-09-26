@@ -17,7 +17,7 @@ I’m a Computer Engineering student at Georgia Tech who loves turning messy, re
 **What I’m doing now**
 
 ⚙️ Amazon Web Services (AWS) — Software Engineer Intern
-Built Razorblast, a Python tool for the EC2 Networking dataplane that generates realistic, production-like network traffic to test how new EC2 instance types handle encrypted packet forwarding. Pushed crafted traffic through encryption pipelines, mirroring live production packets.
+Built a Python tool for the EC2 Networking dataplane that generates realistic, production-like network traffic to test how new EC2 instance types handle encrypted packet forwarding. Pushed crafted traffic through encryption pipelines, mirroring live production packets.
 Stack: Python, AWS EC2 Networking, Encryption Dataplanes
 
 
