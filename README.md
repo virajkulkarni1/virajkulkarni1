@@ -1,6 +1,6 @@
 Hi, I’m Viraj 👋
 
-I’m a Computer Engineering student at Georgia Tech (’26) who loves turning messy, real-world problems into fast, reliable software. I build across the stack—React/Next.js + Node/Python—and I’m happiest when I’m shipping features that real people use.
+I’m a Computer Engineering student at Georgia Tech who loves turning messy, real-world problems into fast, reliable software. I build across the stack—React/Next.js + Node/Python—and I’m happiest when I’m shipping features that real people use.
 
 🧠 Interests: AI systems, data infrastructure, full-stack product work
 
@@ -16,11 +16,20 @@ I’m a Computer Engineering student at Georgia Tech (’26) who loves turning m
 
 **What I’m doing now**
 
+⚙️ Amazon Web Services (AWS) — Software Engineer Intern
+Built Razorblast, a Python tool for the EC2 Networking dataplane that generates realistic, production-like network traffic to test how new EC2 instance types handle encrypted packet forwarding. Pushed crafted traffic through encryption pipelines, mirroring live production packets.
+Stack: Python, AWS EC2 Networking, Encryption Dataplanes
+
+
+**What I have done in the past**
+
+💻 Google — Software Engineer Intern
+Developed a backend-agnostic Data Visualization framework for Google Home device controllers, integrating Fitbit telemetry with Google GenAI Home Agent pipelines for AI-driven trend analysis. Implemented a thread-safe Swift Actor and NSCache caching engine, reducing Foyer RPC backend load by 40% and cutting latency by over 300ms. Built robust GetTimeSeries RPC pipelines handling millions of daily IoT event logs.
+Stack: Swift, SwiftUI, gRPC, Protobuf, Python, GenAI Pipelines
+
 ⚙️ MyStory — Full-Stack SWE Intern
 Built AI + data pipelines and shipped production features (GraphQL/Prisma/Postgres, Neo4j + pgvector for semantic search, Mux for media, Stripe for billing). Moved transcript processing to async job queues and cut end-to-end latency by ~40%.
 Stack: Next.js 15, TypeScript, Apollo, Tailwind/shadcn, Python, AWS (S3/Lambda)
-
-**What I have done in the past**
 
 📱 Eclipse — Lead Mobile Dev Intern
 Firebase-backed Flutter app for student degree tracking. Boosted account reliability/security by 50%, real-time read speed by 35%, and supported 500+ active users.
